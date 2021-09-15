@@ -1,6 +1,6 @@
 # Historia de la rama main
 
-Hace unas semanas este curso empezó y dentro de poico acabará...
+Hace unas semanas este curso empezó...Este curso se ha realizado en los meses de Junio y Julio
 
 ## Inicios de la rama
 
