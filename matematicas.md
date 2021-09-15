@@ -6,3 +6,6 @@ Esto es un fichero muy chulo. Esto son unos cambios que se aplicaran con rebase.
 Esto es una modificación.
 
 Y estoy haciendo unos progresos muy chulos que n sido retomados sin problema mediante stash.
+### Modificaciones mediante GitHub
+
+Esto es una modificación hecha desde la web
